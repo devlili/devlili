@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋, I'm Liliya Almukhametova
 
-<!--
-**devlili/devlili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/almuhametova@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:almuhametova@gmail.com)](mailto:almuhametova@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Liliya Almukhametova-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devlil/?locale=en_US/)](https://www.linkedin.com/in/devlil/?locale=en_US/) 
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/devlili)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning python as a backend-developer (Yandex Practicum student)
+- 👀 Tools and stack: #python #Django #DRF #Bootstrap #Unittest
+
+
+## My Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=devlili&show_icons=true&include_all_commits=true)](https://github.com/devlili/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlili&layout=compact)](https://github.com/devlili/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=devlili)
