@@ -9,8 +9,4 @@
 - 👀 Tools and stack: python Django DRF Bootstrap Unittest
 
 
-## My Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=devlili&show_icons=true&include_all_commits=true)](https://github.com/devlili/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlili&layout=compact)](https://github.com/devlili/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=devlili)
