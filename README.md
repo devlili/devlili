@@ -5,8 +5,8 @@
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/devlili)
 
 
-- 🌱 I’m currently learning python as a backend-developer (Yandex Practicum student)
-- 👀 Tools and stack: python Django DRF Bootstrap Unittest
+- 🌱 I’m currently learning Python as a backend-developer (Yandex Practicum student)
+- 👀 Tools and stack: Python Django DRF Unittest Pytest Docker
 
 
 ![](https://komarev.com/ghpvc/?username=devlili)
