@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m a Python backend-developer
-- 👀 Tools and stack: Python Django DRF Unittest Pytest Docker CI/CD
+- 👀 Tools and stack: Python Django DRF Unittest Pytest Selenium Docker CI/CD
 
 
 ![](https://komarev.com/ghpvc/?username=devlili)
